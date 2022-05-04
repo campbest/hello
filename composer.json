@@ -7,5 +7,9 @@
             "email": "campbest@miamioh.edu"
         }
     ],
+    "autoload":{
+	    "psr-4":{
+		    "campbest\Hello":"src/"
+		 },
     "require": {}
 }
