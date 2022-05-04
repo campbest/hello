@@ -9,7 +9,7 @@
     ],
     "autoload":{
 	    "psr-4":{
-		    "campbest/Hello":"src/"
+		    "campbest\\Hello":"src/"
 		 }
     },
     "require": {}
