@@ -1,6 +1,7 @@
 {
     "name": "campbest/hello",
-    "type": "project",
+    "type": "library",
+    "license":"MIT",
     "authors": [
         {
             "name": "campbest",
