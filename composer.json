@@ -1,0 +1,11 @@
+{
+    "name": "campbest/hello",
+    "type": "project",
+    "authors": [
+        {
+            "name": "campbest",
+            "email": "campbest@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
