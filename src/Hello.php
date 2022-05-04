@@ -4,6 +4,6 @@ namespace campbest\Hello;
 
 class Hello {
 	public function hello() {
-		return "Hello World";
+		return "Hello World 2";
 	}
 }
